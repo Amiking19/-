@@ -7,3 +7,4 @@
  7.sudo luarocks install redis-lua 
 8.sudo luarocks install lua-term 
 9.sudo luarocks install serpent
+@shah_kord19
